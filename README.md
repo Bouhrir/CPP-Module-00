@@ -1,5 +1,4 @@
-# CPP-Module-00
-	-General rules-
+# CPP : General rules
 	
 	@Compiling
 	•Compile your code with c++ and the flags -Wall -Wextra -Werror
